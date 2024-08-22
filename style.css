@@ -1,16 +1,57 @@
 *{
-    background-color: slategrey;
+    background-color: #a0e4b0;
 }
 
 #details{
-    margin-left: 40%;
+    margin-left: 40% !important;
     margin-top:;
     
+}
+
+#Summary, #Education, #Work-Exp, #Skills{
+    padding: 5px;
+
 }
 
 
 #pfp{
     height: 100px;
     width: 100px;
-    border: 5px solid black;
+    border: 5px solid black; 
+ 
+}
+.image{
+    margin-right: 0px;
+}
+
+#con, #contact, .idk, .disclaimer{
+    background-color: #f8fba2;
+}
+
+#con{
+    border: 5px solid #fa7f7f;;
+}
+.idk{
+    background-color: #f8fba2;
+}
+#entire-box{
+    border: 5px solid #fa7f7f;  
+}
+
+.Head{
+    font-family: 'Moderustic',sans-serif;
+}
+
+.links{
+    color: black;
+}
+#contact{
+    margin: 5pt;
+    margin-top: 3pt;
+    font-size: large;
+    font-family: 'Moderustic',sans-serif;
+}
+
+#details.Head{
+    align-items: center;
 }
