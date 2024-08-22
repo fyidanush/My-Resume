@@ -1,0 +1,16 @@
+*{
+    background-color: slategrey;
+}
+
+#details{
+    margin-left: 40%;
+    margin-top:;
+    
+}
+
+
+#pfp{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+}
